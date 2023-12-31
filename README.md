@@ -52,6 +52,11 @@ Add a submit button and Link Bootstrap JavaScript.
 # OUTPUT:10(a):
 
 
+
+![Screenshot 2023-12-31 210031](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743413/779d694d-fcc5-4527-8f34-1b6311987288)
+
+
+
 # RESULT:
 This code creates a responsive feedback form for a virtual workshop on constructing modern websites built with Bootstrap.
 
@@ -111,6 +116,10 @@ Link the Bootstrap JavaScript file at the end of the body.
 </body>
 </html>
 # OUTPUT:10(b):
+
+
+![Screenshot 2023-12-31 210559](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743413/1efa506b-59f9-4feb-8125-11b8e4fa7667)
+
 
 
 # RESULT:
@@ -184,6 +193,10 @@ Add a script to handle the form validation on submit.
 # OUTPUT:10(c):
 
 
+![Screenshot 2023-12-31 211124](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743413/8ed7a4ff-a3a3-4105-8192-b969965bacf1)
+
+
+
 # RESULT:
 This code develops a program to structure vertical form layouts which handle form validation in bootstrap.
 
@@ -253,6 +266,10 @@ Add a script to handle the form validation on submit.
 </body>
 </html>
 # OUTPUT:10(d):
+
+
+![Screenshot 2023-12-31 211546](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-10-BOOTSTRAP/assets/145743413/3e13ed2c-02de-4119-8c2e-51e42d6c14a2)
+
 
 
 # RESULT:
